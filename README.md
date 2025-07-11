@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I’m a final-year B.E. Computer Science & Enginee
 ## Get in Touch
 - 📧 Email: jeetthumar2004@gmail.com
 - 🔗 LinkedIn: www.linkedin.com/in/jeetkishorbhaithumar
-- 📱 Mobile No.: 9106016846
+
 
 ## Fun Fact
 I enjoy coding late into the night, turning coffee into innovative solutions! ☕
